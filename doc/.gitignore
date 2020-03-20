@@ -1,0 +1,13 @@
+html/
+html-warn/
+latex/
+ns3-object.txt
+introspected-doxygen.h
+doxygen.log
+doxygen.warnings.log
+*/build/
+*/figures/*.eps
+*/figures/*.pdf
+*/figures/*.png
+*/source-temp/
+ns3_html_theme/static/ns3_version.js
